@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
+    'failed' => '賬號未註冊或郵箱沒有激活',// 登錄失敗消息提示
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
 ];
